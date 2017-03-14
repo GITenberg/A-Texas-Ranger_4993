@@ -1,5 +1,8 @@
 _repo: A-Texas-Ranger_4993
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Raine, William MacLeod
@@ -14,6 +17,8 @@ description: A study in contradictions, prolific writer of Western novels Willia
   with his real-world experience on the range, MacLeod produced a series of beloved
   novels chronicling the bravery and courage of Western heroes from every walk of
   life, including the intrepid lawman referred to in the title of A Texas Ranger.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4993#A-Texas-Ranger
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
